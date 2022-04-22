@@ -1,0 +1,6 @@
+TOKEN = "5247688913:AAGf7Q3a4aN1zArs7yDaxYzbOUpozeE1LQw"
+URL_TICKET = "http://zhambyl-marathon.kz/"
+URL_APP = "https://www.nike.com/ru/nrc-app"
+URL_INSTAGRAM = "https://www.instagram.com/nikerunning/"
+URL_FACEBOOK = "https://www.facebook.com/nikerunning/"
+URL_MARKET = "https://www.farfetch.com/kz/shopping/men/nike/items.aspx?title=nike+%D0%A0%D0%A4&utm_source=yandex&utm_medium=cpc&utm_campaign=search_[brand_01460_001]:%20nike_[cis]_[ru]&utm_term=30859992789.10563442975.nike%20russia&utm_content=4524246534_premium_1_0_none&pid=yandexdirect_int&af_channel=Search&c=search_[brand_01460_001]:%20nike_[cis]_[ru]&af_c_id=48153743&af_siteid=none&af_keywords=nike%20russia&af_adset_id=premium&af_ad_id=10563442975&is_retargeting=true&etext=2202.QHz8TohM3QXXp3MJxY0AHfpxXLVaJqkaBkg0n-Gso3Z1endhYnRncm9iemJpcGNk.6e88186d2fed7c8c758c92735dd80bb7f9818d94&yclid=2092665927472043126"
